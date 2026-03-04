@@ -1,0 +1,38 @@
+[
+    {
+        "reg_nr": "ABC123",
+        "marke": "Volvo",
+        "modell": "V90",
+        "arsmodell": 2020,
+        "pris": 350000
+    },
+    {
+        "reg_nr": "XYZ987",
+        "marke": "Volkswagen",
+        "modell": "Golf",
+        "arsmodell": 2018,
+        "pris": 150000
+    },
+    {
+        "reg_nr": "HEJ999",
+        "marke": "BMW",
+        "modell": "M3",
+        "arsmodell": 2023,
+        "pris": 650000
+    },
+    {
+        "reg_nr": "TOY001",
+        "marke": "Toyota",
+        "modell": "RAV4",
+        "arsmodell": 2021,
+        "pris": 320000
+    },
+    {
+        "reg_nr": "KIA555",
+        "marke": "Kia",
+        "modell": "Niro",
+        "arsmodell": 2019,
+        "pris": 210000
+    }
+   
+]
